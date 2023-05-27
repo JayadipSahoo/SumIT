@@ -43,6 +43,8 @@ const Demo = () => {
       setAllArticles(updatedAllArticles);
       localStorage.setItem("articles", JSON.stringify(updatedAllArticles));
     }
+     // Call the function to scroll down when desired
+  scrollDownBy30Percent();
   };
   function scrollDownBy30Percent() {
     const windowHeight = window.innerHeight; // Get the height of the window
@@ -54,8 +56,7 @@ const Demo = () => {
     });
   }
   
-  // Call the function to scroll down when desired
-  scrollDownBy30Percent();
+ 
 
   // copy the url and toggle the icon for user feedback
   const handleCopy = (copyUrl) => {

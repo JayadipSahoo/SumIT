@@ -16,7 +16,9 @@ The application provides a user-friendly interface where users can input the art
 - Generated summaries that capture the essence of the article.
 - Responsive design for optimal user experience on various devices.
 
-###Technologies Used
+##Technologies Used
+
+
 HTML
 Tailwind CSS
 JavaScript
@@ -24,8 +26,12 @@ React.js
 Redux Toolkit
 OpenAI API
 
-###License
+
+##License
+
 This project is licensed under the MIT License.
+
+
 
 ##Acknowledgements
 This project was inspired by the need for efficient article summarization.

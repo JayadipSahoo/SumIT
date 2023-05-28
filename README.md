@@ -1,5 +1,5 @@
 # Article Summarizer Using Ai
-![Website Preview](./ss.png)
+<img src = "ss.png" width = 50px height='50px'>
 
 ## Overview
 

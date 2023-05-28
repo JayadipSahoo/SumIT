@@ -1,6 +1,6 @@
 # Article Summarizer
 
-![Website Preview](./preview.png)
+![Website Preview](preview.png)
 
 ## Overview
 
@@ -25,11 +25,6 @@ The application provides a user-friendly interface where users can input the art
 -React.js
 -Redux Toolkit
 -OpenAI API
-
-
-## License
-
-This project is licensed under the MIT License.
 
 
 

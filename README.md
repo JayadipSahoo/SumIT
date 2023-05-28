@@ -1,5 +1,5 @@
 # Article Summarizer Using Ai
-![Website Preview](./preview.png)
+![Website Preview](./ss.png)
 
 ## Overview
 
